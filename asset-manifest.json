@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/project-lab_brakio/static/css/main.8c3d5906.chunk.css",
+    "main.js": "/project-lab_brakio/static/js/main.8dfd9432.chunk.js",
+    "main.js.map": "/project-lab_brakio/static/js/main.8dfd9432.chunk.js.map",
+    "runtime-main.js": "/project-lab_brakio/static/js/runtime-main.18f4e134.js",
+    "runtime-main.js.map": "/project-lab_brakio/static/js/runtime-main.18f4e134.js.map",
+    "static/js/2.7fd5a6d9.chunk.js": "/project-lab_brakio/static/js/2.7fd5a6d9.chunk.js",
+    "static/js/2.7fd5a6d9.chunk.js.map": "/project-lab_brakio/static/js/2.7fd5a6d9.chunk.js.map",
+    "static/js/3.081df4c2.chunk.js": "/project-lab_brakio/static/js/3.081df4c2.chunk.js",
+    "static/js/3.081df4c2.chunk.js.map": "/project-lab_brakio/static/js/3.081df4c2.chunk.js.map",
+    "index.html": "/project-lab_brakio/index.html",
+    "static/css/main.8c3d5906.chunk.css.map": "/project-lab_brakio/static/css/main.8c3d5906.chunk.css.map",
+    "static/js/2.7fd5a6d9.chunk.js.LICENSE.txt": "/project-lab_brakio/static/js/2.7fd5a6d9.chunk.js.LICENSE.txt",
+    "static/media/one.891d9780.svg": "/project-lab_brakio/static/media/one.891d9780.svg",
+    "static/media/two.d640a1a3.svg": "/project-lab_brakio/static/media/two.d640a1a3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18f4e134.js",
+    "static/js/2.7fd5a6d9.chunk.js",
+    "static/css/main.8c3d5906.chunk.css",
+    "static/js/main.8dfd9432.chunk.js"
+  ]
+}
