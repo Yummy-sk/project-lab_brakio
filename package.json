@@ -2,7 +2,7 @@
     "name": "project_lab__team-brakio",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://yummy-sk.github.io/project_lab__team-brakio",
+    "homepage": "https://yummy-sk.github.io/project-lab_brakio",
     "dependencies": {
         "@babel/core": "^7.16.0",
         "@reduxjs/toolkit": "^1.6.2",
@@ -25,7 +25,7 @@
         "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject",
-        "predeploy": "npm run build",
+        "predeploy": "react-scripts build",
         "deploy": "gh-pages -d build"
     },
     "eslintConfig": {
